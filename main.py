@@ -1,2 +1,2 @@
 a = list(map(int, input().split()))
-print(a)
+print(a, max(a), min(a))
